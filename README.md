@@ -1,5 +1,5 @@
 # CG_DRR_3D_5D_python
-Python version of Chen Gui's modified 3D and 5D damped rank-reduction method
+Python version of Gui's modified 3D and 5D damped rank-reduction method
 
 Since I found that DRR package (Pydrr, https://github.com/chenyk1990/pydrr) is hard to be pip install on windows, I present some minor revisions to directly use the DRR-python. You just put these packages and your target datasets in the same file path.
 
